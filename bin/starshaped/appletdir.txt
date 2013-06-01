@@ -1,0 +1,4 @@
+work.dat
+k1quadratic.dat
+k2quadratic.dat
+k4complexity.dat
